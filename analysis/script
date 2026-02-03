@@ -1,0 +1,3 @@
+# install packages of dplyr, tidyr, and ggplot2
+# load packages using library()
+#load cleaned and processed data

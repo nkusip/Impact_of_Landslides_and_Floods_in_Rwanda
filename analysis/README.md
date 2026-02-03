@@ -1,0 +1,1 @@
+Analysis of cleaned and processed landslided and floods events data
